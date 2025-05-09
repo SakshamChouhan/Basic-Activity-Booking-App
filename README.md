@@ -24,8 +24,8 @@ A backend RESTful API for booking activities (Node.js + Express + MongoDB).
 
 1. **Clone the repository and install dependencies:**
    ```sh
-   git clone <your_repo_url>
-   cd assignments
+   git clone https://github.com/SakshamChouhan/Basic-Activity-Booking-App.git
+   cd Basic-Activity-Booking-App
    npm install
    ```
 2. **Create a `.env` file in the root (see `.env.example`):**
